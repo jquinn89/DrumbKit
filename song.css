@@ -1,0 +1,40 @@
+
+.kick {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("KickImage.jpg");
+}
+
+
+.snare {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("SnareImage.jpg");
+}
+
+
+
+.hihat {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("HihatImage.png");
+}
+
+
+.crash {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("crash.png");
+}
+
+
+.bass {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("bassImage.jpg");
+}

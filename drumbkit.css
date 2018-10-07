@@ -1,0 +1,125 @@
+
+@media only screen and (max-width: 768px){}
+@media only screen and (max-width: 450px){}
+
+.main {
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    float: center;
+    border: solid double maroon;
+    font-family: 'Anton', sans-serif;
+    background-color: lightslategrey;
+    margin-left: 450px; 
+    margin-right: 450px;
+    padding: 10px 20px 10px 20px;
+    border-style: double;
+    font-style: italic;
+    position: fixed;
+}
+.box1 {
+    padding:  30px 5px 50px 5px;
+    background-color: rgb(101, 176, 189);
+    color: rgb(49, 28, 28);
+    float: center;
+    text-align: center;
+    position: fixed;
+    top: 380px;
+    left: 450px;
+    display: block;
+    border: solid;
+    border-style: double;
+    border-color: rgb(163, 117, 163);
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+    font-style: italic;
+}
+
+body {
+    background-image: url(musicnote.jpg);
+    background-repeat: repeat-both;
+    background-size: 5%;
+    background-color: rgb(205, 212, 214);
+    display: block;
+}
+
+footer > p {
+    text-align: center;
+    display: block;
+    background-color: rgb(146, 156, 167);
+    position: relative;
+    top: 670px;
+    padding: 0 0 0 0;
+    font-size: 20px;
+}
+
+.kick {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("KickImage.jpg");
+}
+
+.snare {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("SnareImage.jpg");
+}
+
+.hihat {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("HihatImage.png");
+}
+
+.crash {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("crash.png");
+}
+
+.bass {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("bassImage.jpg");
+}
+
+.guitar {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("GuitarImage.jpeg");
+}
+
+.bassguitar {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("BassguitarJQ.jpeg");
+}
+
+
+.violin {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("violinImage.png");
+}
+
+.piano {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("pianoImage.jpeg");
+}
+
+.trumpet{
+    width:100px;
+    height:100px;
+    cursor:pointer;
+background: url("trumpetImage.png");
+}
